@@ -14,6 +14,7 @@ public class Task9 {
         int[] res = new int[n + 1];
         res[0] = 1;
 
+
         for (int i = 0; i < n; i++) {
             int pos = scanner.nextInt();
 
